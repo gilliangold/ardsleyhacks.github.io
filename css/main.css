@@ -825,54 +825,6 @@ button:focus {
   opacity: 1;
 }
 
-/* ==========================================================================
-	9. Pricing Table
-	========================================================================== */
-.pricing-table {
-  padding: 0px 0px 40px 0px;
-  margin: 0 auto;
-  margin-bottom: 5px;
-  border: transparent;
-  text-align: center;
-  background-color: #FFFFFF;
-  border: 1px solid #f1f1f1;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
-}
-
-.pricing-table:hover {
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
-}
-
-.pricing-table .pricing-details h2 {
-  font-size: 26px;
-  font-weight: 700;
-  color: #333;
-  margin-bottom: 20px;
-  text-transform: uppercase;
-  background: #f1f1f1;
-  padding: 30px 0;
-}
-
-.pricing-table .pricing-details span {
-  display: inline-block;
-  font-size: 48px;
-  font-weight: 400;
-  color: #011993;
-  margin-bottom: 20px;
-}
-
-.pricing-table .pricing-details ul {
-  margin-bottom: 35px;
-}
-
-.pricing-table .pricing-details ul li {
-  padding: 10px;
-  font-size: 15px;
-  border-bottom: 1px dotted #f1f1f1;
-}
-
 .table-left {
   margin-top: 20px;
 }
@@ -887,6 +839,11 @@ button:focus {
 /* ==========================================================================
  10. Counter Section Style
  ========================================================================== */
+
+.loc {
+    font-weight: bold;
+}
+
 #schedule-header {
     color: #fff;
 }

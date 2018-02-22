@@ -931,7 +931,14 @@ button:focus {
 .table-left {
   margin-top: 20px;
 }
-
+.right-element{
+    
+}
+.left-element{
+    display: inline-block;
+    position: absolute;
+    left: 0;
+}
 /* ==========================================================================
  10. Counter Section Style
  ========================================================================== */

@@ -136,6 +136,13 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   margin-top: 15px;
 }
 
+.section-header .blue-lines {
+  margin: auto;
+  width: 70px;
+  position: relative;
+  border-top: 2px solid #fff;
+  margin-top: 15px;
+}
 /* ==========================================================================
    2.2 Buttons
    ========================================================================== */
@@ -854,6 +861,10 @@ button:focus {
 }
 
 #schedule-header {
+    color: #fff;
+}
+
+#mentors-header {
     color: #fff;
 }
 

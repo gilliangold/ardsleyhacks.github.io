@@ -403,7 +403,7 @@ button:focus {
 /* ==========================================================================
    3. Hero Area
    ========================================================================== */
-#hero-area {
+#home {
   background: url(../img/bg1.png) fixed no-repeat;
   background-size: cover;
   color: #fff;
@@ -411,7 +411,7 @@ button:focus {
   position: relative;
 }
 
-#hero-area .overlay {
+#home .overlay {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -421,18 +421,18 @@ button:focus {
   opacity: 0.9;
 }
 
-#hero-area .contents {
+#home .contents {
   padding: 200px 0 130px;
 }
 
-#hero-area .contents h1 {
+#home .contents h1 {
   color: #fff;
   font-size: 60px;
   font-weight: 700;
   margin-bottom: 25px;
 }
 
-#hero-area .contents p {
+#home .contents p {
   font-size: 35px;
   color: #fff;
   font-weight: 400;
@@ -440,16 +440,16 @@ button:focus {
   letter-spacing: 0.5px;
 }
 
-#hero-area .contents .btn {
+#home .contents .btn {
   margin: 25px 25px 0px 0px;
   text-transform: uppercase;
 }
 
-#hero-area .banner_bottom_btn {
+#home .banner_bottom_btn {
   margin-top: 40px;
 }
 
-#hero-area .banner_bottom_btn i {
+#home .banner_bottom_btn i {
   color: #fff;
   font-size: 48px;
   -webkit-transition: all 0.2s linear;
@@ -458,7 +458,7 @@ button:focus {
   transition: all 0.2s linear;
 }
 
-#hero-area .banner_bottom_btn i:hover {
+#home .banner_bottom_btn i:hover {
   color: #011993;
 }
 

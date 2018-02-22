@@ -1269,3 +1269,9 @@ footer {
 .copyright p a:hover {
   color: #011993;
 }
+
+.circle-icon {
+    background: #3B5998;
+    padding:5px;
+    border-radius: 50%;
+}

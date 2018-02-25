@@ -229,6 +229,12 @@ button:focus {
     background-color:#011993;
     color: #fff;
 }
+
+#contact {
+    background-color:#011993;
+    color: #fff;
+}
+
 .social-icons {
   margin-top: 40px;
 }
@@ -899,6 +905,68 @@ button:focus {
   color: #fff;
 }
 
+.contact .facts-item {
+  text-align: center;
+  color: #fff;
+}
+
+.contact .facts-item .icon {
+  margin-bottom: 30px;
+}
+
+.contact .facts-item .icon i {
+  font-size: 50px;
+  color: #fff;
+}
+
+.contact .facts-item .fact-count h3 {
+  font-size: 35px;
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.contact .facts-item .fact-count h4 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
+
+#email-us {
+  color: #fff;
+  margin-right: 15px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+}
+
+#email-us:hover {
+  color: #d44440;
+}
+
+#facebook-us {
+  color: #fff;
+  margin-right: 15px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+}
+
+#facebook-us:hover {
+  color: #3dbedb;
+}
+
+#ig-us {
+  color: #fff;
+  margin-right: 15px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+}
+
+#ig-us:hover {
+  color: #ff00ff;
+}
+
 /* ==========================================================================
 11. Testimonial Section Style
  ========================================================================== */
@@ -1037,21 +1105,6 @@ button:focus {
 /* ==========================================================================
   14. Contact Us
   ========================================================================== */
-.contact-us h3 {
-  font-size: 36px;
-  margin-bottom: 45px;
-}
-
-.contact-us p span {
-  color: #011993;
-  padding-left: 10px;
-}
-
-#contact {
-  background: #343a40;
-  color: #fff;
-  position: relative;
-}
 
 .form-control {
   width: 100%;

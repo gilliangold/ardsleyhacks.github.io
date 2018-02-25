@@ -905,9 +905,6 @@ button:focus {
   color: #fff;
 }
 
-
-
-
 .contact .facts-item {
   text-align: center;
   color: #fff;
@@ -934,8 +931,40 @@ button:focus {
   color: #fff;
 }
 
-.contact .facts-item .icon:hover i {
-  color: red;
+#email-us {
+  color: #fff;
+  margin-right: 15px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+}
+
+#email-us:hover {
+  color: #d44440;
+}
+
+#facebook-us {
+  color: #fff;
+  margin-right: 15px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+}
+
+#facebook-us:hover {
+  color: #3dbedb;
+}
+
+#ig-us {
+  color: #fff;
+  margin-right: 15px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+}
+
+#ig-us:hover {
+  color: #ff00ff;
 }
 
 /* ==========================================================================

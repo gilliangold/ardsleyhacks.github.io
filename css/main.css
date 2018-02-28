@@ -119,7 +119,6 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .section-header .section-text {
     color: #333;
-    position: relative;
 }
 
 .section-header .section-title span {
